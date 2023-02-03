@@ -6,6 +6,11 @@
 // ! Components
 // My lib components
 @import 'components/_nav_bar';
-
-// ! Pages
-@import 'pages/_header';
+ 
+// ! Pages 
+@import 'pages/_first_section';
+@import 'pages/_second_section';
+@import 'pages/_third_section.scss';
+@import 'pages/_fourth_section.scss';
+@import 'pages/fifth_section';
+@import 'pages/footer';
