@@ -1,4 +1,8 @@
 node_modules
 src
 dist
-vscode
+.vscode
+.gitignore
+gulpfile.js
+package-lock.json
+package.json
