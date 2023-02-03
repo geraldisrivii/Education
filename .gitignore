@@ -2,7 +2,6 @@ node_modules
 src
 dist
 .vscode
-.gitignore
 gulpfile.js
 package-lock.json
 package.json
